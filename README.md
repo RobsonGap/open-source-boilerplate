@@ -17,4 +17,4 @@ Want to contribute? [Follow these recommendations](https://github.com/robsongap/
 See [Releases](https://github.com/robsongap/open-source-boilerplate/releases) for detailed changelog.
 
 ## License
-[MIT License](https://github.com/robsongap/open-source-boilerplate/blob/master/LICENSE.md) © [Robson Gap]()
+[MIT License](https://github.com/RobsonGap/open-source-boilerplate/blob/master/LICENSE.md) © [Robson Gap]()
